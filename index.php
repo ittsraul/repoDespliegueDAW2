@@ -1,0 +1,8 @@
+<?php
+function test(){
+$info = [];    
+for($i = 0; $i < 10; $i++){
+    echo $info[$i];
+}
+}
+
