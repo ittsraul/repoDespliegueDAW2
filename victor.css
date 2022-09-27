@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+}
+
+.content {
+    background: linear-gradient(blue red violet white, 90deg);
+    height: 100%;
+    width: 100%;
+}
