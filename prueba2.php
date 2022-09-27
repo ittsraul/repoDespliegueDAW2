@@ -1,6 +1,6 @@
 <?php
 
 
-$prueba = $_GET["prueba"];
+$prub = $_GET["prueba"];
 
-echo $prueba;
+echo $prub;
