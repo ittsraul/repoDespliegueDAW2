@@ -1,8 +1,11 @@
 <?php
 function test(){
-$info = [];    
-for($i = 0; $i < 10; $i++){
-    echo $info[$i];
-}
+$pepe  = 1;
+$juan = 2;
+
+$result = $pepe + $juan;
+
+echo $result;
+
 }
 
