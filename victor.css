@@ -33,6 +33,10 @@ table {
     border: 10px solid black;
 }
 
-tbody{
+tbody {
     border: 2px solid black;
+}
+
+thead {
+    border-bottom: 2px blanchedalmond solid;
 }
