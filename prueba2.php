@@ -18,6 +18,11 @@ switch ($prub) {
     case 3:
         echo "RAUL 1";
         break;
+
+    case 4:
+        echo "RAUL 2";
+        break;
 }
 
 echo $prub;
+?>
