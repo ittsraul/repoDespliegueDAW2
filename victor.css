@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+}
+
+.content {
+    background: linear-gradient(blue red violet white, 90deg);
+    height: 100%;
+    width: 100%;
+}
+/* 
+h1 {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+table {
+    color: aquamarine;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+
+tbody {
+    border: 2px solid black;
+}
+
+thead {
+    border-bottom: 2px blanchedalmond solid;
+} */
