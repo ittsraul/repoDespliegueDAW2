@@ -10,6 +10,10 @@ switch ($prub) {
     case 1: 
         echo "pepe:";
         break;
+
+    case 2:
+        echo "RAUL";
+        break;
 }
 
 echo $prub;
